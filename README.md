@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atayhan
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in RPA & automation
 - 🌱 I’m currently learning JavaScript
 
